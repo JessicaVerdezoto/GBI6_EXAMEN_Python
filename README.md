@@ -1,6 +1,6 @@
 # GBI6_EXAMEN_Python
  ## UNIVERSIDAD REGIONAL AMAZÓNICA IKIAM 
-Jessica Jacqueline Verdezoto Prado
+***Jessica Jacqueline Verdezoto Prado***
 
 Bioinformatica G01
 
